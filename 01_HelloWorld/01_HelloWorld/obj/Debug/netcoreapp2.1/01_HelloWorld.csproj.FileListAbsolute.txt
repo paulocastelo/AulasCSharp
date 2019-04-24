@@ -1,0 +1,11 @@
+C:\Projetos\ProjetosCSharp\01_HelloWorld\01_HelloWorld\bin\Debug\netcoreapp2.1\01_HelloWorld.deps.json
+C:\Projetos\ProjetosCSharp\01_HelloWorld\01_HelloWorld\bin\Debug\netcoreapp2.1\01_HelloWorld.runtimeconfig.json
+C:\Projetos\ProjetosCSharp\01_HelloWorld\01_HelloWorld\bin\Debug\netcoreapp2.1\01_HelloWorld.runtimeconfig.dev.json
+C:\Projetos\ProjetosCSharp\01_HelloWorld\01_HelloWorld\bin\Debug\netcoreapp2.1\01_HelloWorld.dll
+C:\Projetos\ProjetosCSharp\01_HelloWorld\01_HelloWorld\bin\Debug\netcoreapp2.1\01_HelloWorld.pdb
+C:\Projetos\ProjetosCSharp\01_HelloWorld\01_HelloWorld\obj\Debug\netcoreapp2.1\01_HelloWorld.csprojAssemblyReference.cache
+C:\Projetos\ProjetosCSharp\01_HelloWorld\01_HelloWorld\obj\Debug\netcoreapp2.1\01_HelloWorld.csproj.CoreCompileInputs.cache
+C:\Projetos\ProjetosCSharp\01_HelloWorld\01_HelloWorld\obj\Debug\netcoreapp2.1\01_HelloWorld.AssemblyInfoInputs.cache
+C:\Projetos\ProjetosCSharp\01_HelloWorld\01_HelloWorld\obj\Debug\netcoreapp2.1\01_HelloWorld.AssemblyInfo.cs
+C:\Projetos\ProjetosCSharp\01_HelloWorld\01_HelloWorld\obj\Debug\netcoreapp2.1\01_HelloWorld.dll
+C:\Projetos\ProjetosCSharp\01_HelloWorld\01_HelloWorld\obj\Debug\netcoreapp2.1\01_HelloWorld.pdb

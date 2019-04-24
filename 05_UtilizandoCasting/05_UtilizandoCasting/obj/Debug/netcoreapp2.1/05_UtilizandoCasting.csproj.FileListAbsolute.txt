@@ -1,0 +1,10 @@
+C:\Projetos\ProjetosCSharp\05_UtilizandoCasting\05_UtilizandoCasting\bin\Debug\netcoreapp2.1\05_UtilizandoCasting.deps.json
+C:\Projetos\ProjetosCSharp\05_UtilizandoCasting\05_UtilizandoCasting\bin\Debug\netcoreapp2.1\05_UtilizandoCasting.runtimeconfig.json
+C:\Projetos\ProjetosCSharp\05_UtilizandoCasting\05_UtilizandoCasting\bin\Debug\netcoreapp2.1\05_UtilizandoCasting.runtimeconfig.dev.json
+C:\Projetos\ProjetosCSharp\05_UtilizandoCasting\05_UtilizandoCasting\bin\Debug\netcoreapp2.1\05_UtilizandoCasting.dll
+C:\Projetos\ProjetosCSharp\05_UtilizandoCasting\05_UtilizandoCasting\bin\Debug\netcoreapp2.1\05_UtilizandoCasting.pdb
+C:\Projetos\ProjetosCSharp\05_UtilizandoCasting\05_UtilizandoCasting\obj\Debug\netcoreapp2.1\05_UtilizandoCasting.csproj.CoreCompileInputs.cache
+C:\Projetos\ProjetosCSharp\05_UtilizandoCasting\05_UtilizandoCasting\obj\Debug\netcoreapp2.1\05_UtilizandoCasting.AssemblyInfoInputs.cache
+C:\Projetos\ProjetosCSharp\05_UtilizandoCasting\05_UtilizandoCasting\obj\Debug\netcoreapp2.1\05_UtilizandoCasting.AssemblyInfo.cs
+C:\Projetos\ProjetosCSharp\05_UtilizandoCasting\05_UtilizandoCasting\obj\Debug\netcoreapp2.1\05_UtilizandoCasting.dll
+C:\Projetos\ProjetosCSharp\05_UtilizandoCasting\05_UtilizandoCasting\obj\Debug\netcoreapp2.1\05_UtilizandoCasting.pdb

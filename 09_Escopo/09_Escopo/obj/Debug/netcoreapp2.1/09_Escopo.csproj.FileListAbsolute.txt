@@ -1,0 +1,10 @@
+C:\Projetos\ProjetosCSharp\09_Escopo\09_Escopo\bin\Debug\netcoreapp2.1\09_Escopo.deps.json
+C:\Projetos\ProjetosCSharp\09_Escopo\09_Escopo\bin\Debug\netcoreapp2.1\09_Escopo.runtimeconfig.json
+C:\Projetos\ProjetosCSharp\09_Escopo\09_Escopo\bin\Debug\netcoreapp2.1\09_Escopo.runtimeconfig.dev.json
+C:\Projetos\ProjetosCSharp\09_Escopo\09_Escopo\bin\Debug\netcoreapp2.1\09_Escopo.dll
+C:\Projetos\ProjetosCSharp\09_Escopo\09_Escopo\bin\Debug\netcoreapp2.1\09_Escopo.pdb
+C:\Projetos\ProjetosCSharp\09_Escopo\09_Escopo\obj\Debug\netcoreapp2.1\09_Escopo.csproj.CoreCompileInputs.cache
+C:\Projetos\ProjetosCSharp\09_Escopo\09_Escopo\obj\Debug\netcoreapp2.1\09_Escopo.AssemblyInfoInputs.cache
+C:\Projetos\ProjetosCSharp\09_Escopo\09_Escopo\obj\Debug\netcoreapp2.1\09_Escopo.AssemblyInfo.cs
+C:\Projetos\ProjetosCSharp\09_Escopo\09_Escopo\obj\Debug\netcoreapp2.1\09_Escopo.dll
+C:\Projetos\ProjetosCSharp\09_Escopo\09_Escopo\obj\Debug\netcoreapp2.1\09_Escopo.pdb

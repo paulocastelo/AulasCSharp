@@ -1,0 +1,11 @@
+C:\Projetos\ProjetosCSharp\02_MeuPrimeiroProjeto\02_MeuPrimeiroProjeto\obj\Debug\netcoreapp2.1\02_MeuPrimeiroProjeto.csprojAssemblyReference.cache
+C:\Projetos\ProjetosCSharp\02_MeuPrimeiroProjeto\02_MeuPrimeiroProjeto\obj\Debug\netcoreapp2.1\02_MeuPrimeiroProjeto.csproj.CoreCompileInputs.cache
+C:\Projetos\ProjetosCSharp\02_MeuPrimeiroProjeto\02_MeuPrimeiroProjeto\obj\Debug\netcoreapp2.1\02_MeuPrimeiroProjeto.AssemblyInfoInputs.cache
+C:\Projetos\ProjetosCSharp\02_MeuPrimeiroProjeto\02_MeuPrimeiroProjeto\obj\Debug\netcoreapp2.1\02_MeuPrimeiroProjeto.AssemblyInfo.cs
+C:\Projetos\ProjetosCSharp\02_MeuPrimeiroProjeto\02_MeuPrimeiroProjeto\bin\Debug\netcoreapp2.1\02_MeuPrimeiroProjeto.deps.json
+C:\Projetos\ProjetosCSharp\02_MeuPrimeiroProjeto\02_MeuPrimeiroProjeto\bin\Debug\netcoreapp2.1\02_MeuPrimeiroProjeto.runtimeconfig.json
+C:\Projetos\ProjetosCSharp\02_MeuPrimeiroProjeto\02_MeuPrimeiroProjeto\bin\Debug\netcoreapp2.1\02_MeuPrimeiroProjeto.runtimeconfig.dev.json
+C:\Projetos\ProjetosCSharp\02_MeuPrimeiroProjeto\02_MeuPrimeiroProjeto\bin\Debug\netcoreapp2.1\02_MeuPrimeiroProjeto.dll
+C:\Projetos\ProjetosCSharp\02_MeuPrimeiroProjeto\02_MeuPrimeiroProjeto\bin\Debug\netcoreapp2.1\02_MeuPrimeiroProjeto.pdb
+C:\Projetos\ProjetosCSharp\02_MeuPrimeiroProjeto\02_MeuPrimeiroProjeto\obj\Debug\netcoreapp2.1\02_MeuPrimeiroProjeto.dll
+C:\Projetos\ProjetosCSharp\02_MeuPrimeiroProjeto\02_MeuPrimeiroProjeto\obj\Debug\netcoreapp2.1\02_MeuPrimeiroProjeto.pdb

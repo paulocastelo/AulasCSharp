@@ -1,0 +1,10 @@
+C:\Projetos\ProjetosCSharp\07_ConcidionaisNoSalario\07_ConcidionaisNoSalario\bin\Debug\netcoreapp2.1\07_ConcidionaisNoSalario.deps.json
+C:\Projetos\ProjetosCSharp\07_ConcidionaisNoSalario\07_ConcidionaisNoSalario\bin\Debug\netcoreapp2.1\07_ConcidionaisNoSalario.runtimeconfig.json
+C:\Projetos\ProjetosCSharp\07_ConcidionaisNoSalario\07_ConcidionaisNoSalario\bin\Debug\netcoreapp2.1\07_ConcidionaisNoSalario.runtimeconfig.dev.json
+C:\Projetos\ProjetosCSharp\07_ConcidionaisNoSalario\07_ConcidionaisNoSalario\bin\Debug\netcoreapp2.1\07_ConcidionaisNoSalario.dll
+C:\Projetos\ProjetosCSharp\07_ConcidionaisNoSalario\07_ConcidionaisNoSalario\bin\Debug\netcoreapp2.1\07_ConcidionaisNoSalario.pdb
+C:\Projetos\ProjetosCSharp\07_ConcidionaisNoSalario\07_ConcidionaisNoSalario\obj\Debug\netcoreapp2.1\07_ConcidionaisNoSalario.csproj.CoreCompileInputs.cache
+C:\Projetos\ProjetosCSharp\07_ConcidionaisNoSalario\07_ConcidionaisNoSalario\obj\Debug\netcoreapp2.1\07_ConcidionaisNoSalario.AssemblyInfoInputs.cache
+C:\Projetos\ProjetosCSharp\07_ConcidionaisNoSalario\07_ConcidionaisNoSalario\obj\Debug\netcoreapp2.1\07_ConcidionaisNoSalario.AssemblyInfo.cs
+C:\Projetos\ProjetosCSharp\07_ConcidionaisNoSalario\07_ConcidionaisNoSalario\obj\Debug\netcoreapp2.1\07_ConcidionaisNoSalario.dll
+C:\Projetos\ProjetosCSharp\07_ConcidionaisNoSalario\07_ConcidionaisNoSalario\obj\Debug\netcoreapp2.1\07_ConcidionaisNoSalario.pdb

@@ -1,0 +1,10 @@
+C:\Projetos\ProjetosCSharp\08_CondicionaisBooleanas\08_CondicionaisBooleanas\obj\Debug\netcoreapp2.1\08_CondicionaisBooleanas.csproj.CoreCompileInputs.cache
+C:\Projetos\ProjetosCSharp\08_CondicionaisBooleanas\08_CondicionaisBooleanas\obj\Debug\netcoreapp2.1\08_CondicionaisBooleanas.AssemblyInfoInputs.cache
+C:\Projetos\ProjetosCSharp\08_CondicionaisBooleanas\08_CondicionaisBooleanas\obj\Debug\netcoreapp2.1\08_CondicionaisBooleanas.AssemblyInfo.cs
+C:\Projetos\ProjetosCSharp\08_CondicionaisBooleanas\08_CondicionaisBooleanas\bin\Debug\netcoreapp2.1\08_CondicionaisBooleanas.deps.json
+C:\Projetos\ProjetosCSharp\08_CondicionaisBooleanas\08_CondicionaisBooleanas\bin\Debug\netcoreapp2.1\08_CondicionaisBooleanas.runtimeconfig.json
+C:\Projetos\ProjetosCSharp\08_CondicionaisBooleanas\08_CondicionaisBooleanas\bin\Debug\netcoreapp2.1\08_CondicionaisBooleanas.runtimeconfig.dev.json
+C:\Projetos\ProjetosCSharp\08_CondicionaisBooleanas\08_CondicionaisBooleanas\bin\Debug\netcoreapp2.1\08_CondicionaisBooleanas.dll
+C:\Projetos\ProjetosCSharp\08_CondicionaisBooleanas\08_CondicionaisBooleanas\bin\Debug\netcoreapp2.1\08_CondicionaisBooleanas.pdb
+C:\Projetos\ProjetosCSharp\08_CondicionaisBooleanas\08_CondicionaisBooleanas\obj\Debug\netcoreapp2.1\08_CondicionaisBooleanas.dll
+C:\Projetos\ProjetosCSharp\08_CondicionaisBooleanas\08_CondicionaisBooleanas\obj\Debug\netcoreapp2.1\08_CondicionaisBooleanas.pdb

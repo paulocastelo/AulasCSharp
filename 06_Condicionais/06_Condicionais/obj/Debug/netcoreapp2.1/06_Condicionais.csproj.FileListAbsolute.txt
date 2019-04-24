@@ -1,0 +1,10 @@
+C:\Projetos\ProjetosCSharp\06_Condicionais\06_Condicionais\bin\Debug\netcoreapp2.1\06_Condicionais.deps.json
+C:\Projetos\ProjetosCSharp\06_Condicionais\06_Condicionais\bin\Debug\netcoreapp2.1\06_Condicionais.runtimeconfig.json
+C:\Projetos\ProjetosCSharp\06_Condicionais\06_Condicionais\bin\Debug\netcoreapp2.1\06_Condicionais.runtimeconfig.dev.json
+C:\Projetos\ProjetosCSharp\06_Condicionais\06_Condicionais\bin\Debug\netcoreapp2.1\06_Condicionais.dll
+C:\Projetos\ProjetosCSharp\06_Condicionais\06_Condicionais\bin\Debug\netcoreapp2.1\06_Condicionais.pdb
+C:\Projetos\ProjetosCSharp\06_Condicionais\06_Condicionais\obj\Debug\netcoreapp2.1\06_Condicionais.csproj.CoreCompileInputs.cache
+C:\Projetos\ProjetosCSharp\06_Condicionais\06_Condicionais\obj\Debug\netcoreapp2.1\06_Condicionais.AssemblyInfoInputs.cache
+C:\Projetos\ProjetosCSharp\06_Condicionais\06_Condicionais\obj\Debug\netcoreapp2.1\06_Condicionais.AssemblyInfo.cs
+C:\Projetos\ProjetosCSharp\06_Condicionais\06_Condicionais\obj\Debug\netcoreapp2.1\06_Condicionais.dll
+C:\Projetos\ProjetosCSharp\06_Condicionais\06_Condicionais\obj\Debug\netcoreapp2.1\06_Condicionais.pdb

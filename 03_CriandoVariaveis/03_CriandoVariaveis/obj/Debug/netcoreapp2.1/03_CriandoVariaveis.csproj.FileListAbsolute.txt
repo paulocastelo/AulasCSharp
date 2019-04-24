@@ -1,0 +1,11 @@
+C:\Projetos\ProjetosCSharp\03_CriandoVariaveis\03_CriandoVariaveis\bin\Debug\netcoreapp2.1\03_CriandoVariaveis.deps.json
+C:\Projetos\ProjetosCSharp\03_CriandoVariaveis\03_CriandoVariaveis\bin\Debug\netcoreapp2.1\03_CriandoVariaveis.runtimeconfig.json
+C:\Projetos\ProjetosCSharp\03_CriandoVariaveis\03_CriandoVariaveis\bin\Debug\netcoreapp2.1\03_CriandoVariaveis.runtimeconfig.dev.json
+C:\Projetos\ProjetosCSharp\03_CriandoVariaveis\03_CriandoVariaveis\bin\Debug\netcoreapp2.1\03_CriandoVariaveis.dll
+C:\Projetos\ProjetosCSharp\03_CriandoVariaveis\03_CriandoVariaveis\bin\Debug\netcoreapp2.1\03_CriandoVariaveis.pdb
+C:\Projetos\ProjetosCSharp\03_CriandoVariaveis\03_CriandoVariaveis\obj\Debug\netcoreapp2.1\03_CriandoVariaveis.csproj.CoreCompileInputs.cache
+C:\Projetos\ProjetosCSharp\03_CriandoVariaveis\03_CriandoVariaveis\obj\Debug\netcoreapp2.1\03_CriandoVariaveis.AssemblyInfoInputs.cache
+C:\Projetos\ProjetosCSharp\03_CriandoVariaveis\03_CriandoVariaveis\obj\Debug\netcoreapp2.1\03_CriandoVariaveis.AssemblyInfo.cs
+C:\Projetos\ProjetosCSharp\03_CriandoVariaveis\03_CriandoVariaveis\obj\Debug\netcoreapp2.1\03_CriandoVariaveis.dll
+C:\Projetos\ProjetosCSharp\03_CriandoVariaveis\03_CriandoVariaveis\obj\Debug\netcoreapp2.1\03_CriandoVariaveis.pdb
+C:\Projetos\ProjetosCSharp\03_CriandoVariaveis\03_CriandoVariaveis\obj\Debug\netcoreapp2.1\03_CriandoVariaveis.csprojAssemblyReference.cache
