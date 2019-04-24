@@ -1,0 +1,7 @@
+D:\ANTT\Projects\AulasCSharp\12_TestandoSwitch\bin\Debug\12_TestandoSwitch.exe.config
+D:\ANTT\Projects\AulasCSharp\12_TestandoSwitch\bin\Debug\12_TestandoSwitch.exe
+D:\ANTT\Projects\AulasCSharp\12_TestandoSwitch\bin\Debug\12_TestandoSwitch.pdb
+D:\ANTT\Projects\AulasCSharp\12_TestandoSwitch\obj\Debug\12_TestandoSwitch.csprojAssemblyReference.cache
+D:\ANTT\Projects\AulasCSharp\12_TestandoSwitch\obj\Debug\12_TestandoSwitch.csproj.CoreCompileInputs.cache
+D:\ANTT\Projects\AulasCSharp\12_TestandoSwitch\obj\Debug\12_TestandoSwitch.exe
+D:\ANTT\Projects\AulasCSharp\12_TestandoSwitch\obj\Debug\12_TestandoSwitch.pdb

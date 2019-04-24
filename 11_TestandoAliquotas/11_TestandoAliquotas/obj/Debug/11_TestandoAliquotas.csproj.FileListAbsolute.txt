@@ -1,0 +1,7 @@
+D:\ANTT\Projects\AulasCSharp\11_TestandoAliquotas\11_TestandoAliquotas\bin\Debug\11_TestandoAliquotas.exe.config
+D:\ANTT\Projects\AulasCSharp\11_TestandoAliquotas\11_TestandoAliquotas\bin\Debug\11_TestandoAliquotas.exe
+D:\ANTT\Projects\AulasCSharp\11_TestandoAliquotas\11_TestandoAliquotas\bin\Debug\11_TestandoAliquotas.pdb
+D:\ANTT\Projects\AulasCSharp\11_TestandoAliquotas\11_TestandoAliquotas\obj\Debug\11_TestandoAliquotas.csprojAssemblyReference.cache
+D:\ANTT\Projects\AulasCSharp\11_TestandoAliquotas\11_TestandoAliquotas\obj\Debug\11_TestandoAliquotas.csproj.CoreCompileInputs.cache
+D:\ANTT\Projects\AulasCSharp\11_TestandoAliquotas\11_TestandoAliquotas\obj\Debug\11_TestandoAliquotas.exe
+D:\ANTT\Projects\AulasCSharp\11_TestandoAliquotas\11_TestandoAliquotas\obj\Debug\11_TestandoAliquotas.pdb

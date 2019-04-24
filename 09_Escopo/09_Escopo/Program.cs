@@ -7,6 +7,7 @@ namespace _09_Escopo
         static void Main(string[] args)
         {
             Console.WriteLine("Escopo das variáveis.");
+            //https://cursos.alura.com.br/course/csharp-parte-1-primeiros-passos/task/37982
 
             int idadePessoa = 18;
             bool acompanhado = false;
