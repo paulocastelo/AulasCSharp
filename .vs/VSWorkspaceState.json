@@ -1,12 +1,13 @@
 {
   "ExpandedNodes": [
     "",
+    "\\01_HelloWorld",
     "\\10_TestandoMaisCondicionais",
     "\\10_TestandoMaisCondicionais\\10_TestandoMaisCondicionais",
     "\\11_TestandoAliquotas",
     "\\11_TestandoAliquotas\\11_TestandoAliquotas",
     "\\12_TestandoSwitch"
   ],
-  "SelectedNode": "\\12_TestandoSwitch\\12_TestandoSwitch.csproj",
+  "SelectedNode": "\\01_HelloWorld\\CursoCSharp.sln",
   "PreviewInSolutionExplorer": false
 }

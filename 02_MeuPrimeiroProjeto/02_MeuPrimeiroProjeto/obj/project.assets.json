@@ -688,33 +688,28 @@
     ]
   },
   "packageFolders": {
-    "C:\\Users\\PauloC\\.nuget\\packages\\": {},
-    "C:\\ProgramData\\Xamarin\\NuGet\\": {},
+    "C:\\Users\\paulo.castelo\\.nuget\\packages\\": {},
     "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Projetos\\ProjetosCSharp\\02_MeuPrimeiroProjeto\\02_MeuPrimeiroProjeto\\02_MeuPrimeiroProjeto.csproj",
+      "projectUniqueName": "D:\\ANTT\\Projects\\AulasCSharp\\02_MeuPrimeiroProjeto\\02_MeuPrimeiroProjeto\\02_MeuPrimeiroProjeto.csproj",
       "projectName": "02_MeuPrimeiroProjeto",
-      "projectPath": "C:\\Projetos\\ProjetosCSharp\\02_MeuPrimeiroProjeto\\02_MeuPrimeiroProjeto\\02_MeuPrimeiroProjeto.csproj",
-      "packagesPath": "C:\\Users\\PauloC\\.nuget\\packages\\",
-      "outputPath": "C:\\Projetos\\ProjetosCSharp\\02_MeuPrimeiroProjeto\\02_MeuPrimeiroProjeto\\obj\\",
+      "projectPath": "D:\\ANTT\\Projects\\AulasCSharp\\02_MeuPrimeiroProjeto\\02_MeuPrimeiroProjeto\\02_MeuPrimeiroProjeto.csproj",
+      "packagesPath": "C:\\Users\\paulo.castelo\\.nuget\\packages\\",
+      "outputPath": "D:\\ANTT\\Projects\\AulasCSharp\\02_MeuPrimeiroProjeto\\02_MeuPrimeiroProjeto\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
-        "C:\\ProgramData\\Xamarin\\NuGet\\",
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
       ],
       "configFilePaths": [
-        "C:\\Users\\PauloC\\AppData\\Roaming\\NuGet\\NuGet.Config",
-        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config",
-        "C:\\Program Files (x86)\\NuGet\\Config\\Xamarin.Offline.config"
+        "C:\\Users\\paulo.castelo\\AppData\\Roaming\\NuGet\\NuGet.Config"
       ],
       "originalTargetFrameworks": [
         "netcoreapp2.1"
       ],
       "sources": {
-        "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
         "https://api.nuget.org/v3/index.json": {}
       },
       "frameworks": {

@@ -1,0 +1,7 @@
+D:\ANTT\Projects\AulasCSharp\13_CalculaPoupanca\13_CalculaPoupanca\bin\Debug\13_CalculaPoupanca.exe.config
+D:\ANTT\Projects\AulasCSharp\13_CalculaPoupanca\13_CalculaPoupanca\bin\Debug\13_CalculaPoupanca.exe
+D:\ANTT\Projects\AulasCSharp\13_CalculaPoupanca\13_CalculaPoupanca\bin\Debug\13_CalculaPoupanca.pdb
+D:\ANTT\Projects\AulasCSharp\13_CalculaPoupanca\13_CalculaPoupanca\obj\Debug\13_CalculaPoupanca.csprojAssemblyReference.cache
+D:\ANTT\Projects\AulasCSharp\13_CalculaPoupanca\13_CalculaPoupanca\obj\Debug\13_CalculaPoupanca.csproj.CoreCompileInputs.cache
+D:\ANTT\Projects\AulasCSharp\13_CalculaPoupanca\13_CalculaPoupanca\obj\Debug\13_CalculaPoupanca.exe
+D:\ANTT\Projects\AulasCSharp\13_CalculaPoupanca\13_CalculaPoupanca\obj\Debug\13_CalculaPoupanca.pdb
