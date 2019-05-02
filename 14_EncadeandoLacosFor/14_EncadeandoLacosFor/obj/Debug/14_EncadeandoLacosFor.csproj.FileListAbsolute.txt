@@ -1,0 +1,7 @@
+D:\ANTT\Projects\AulasCSharp\14_EncadeandoLacosFor\14_EncadeandoLacosFor\bin\Debug\14_EncadeandoLacosFor.exe.config
+D:\ANTT\Projects\AulasCSharp\14_EncadeandoLacosFor\14_EncadeandoLacosFor\bin\Debug\14_EncadeandoLacosFor.exe
+D:\ANTT\Projects\AulasCSharp\14_EncadeandoLacosFor\14_EncadeandoLacosFor\bin\Debug\14_EncadeandoLacosFor.pdb
+D:\ANTT\Projects\AulasCSharp\14_EncadeandoLacosFor\14_EncadeandoLacosFor\obj\Debug\14_EncadeandoLacosFor.csprojAssemblyReference.cache
+D:\ANTT\Projects\AulasCSharp\14_EncadeandoLacosFor\14_EncadeandoLacosFor\obj\Debug\14_EncadeandoLacosFor.csproj.CoreCompileInputs.cache
+D:\ANTT\Projects\AulasCSharp\14_EncadeandoLacosFor\14_EncadeandoLacosFor\obj\Debug\14_EncadeandoLacosFor.exe
+D:\ANTT\Projects\AulasCSharp\14_EncadeandoLacosFor\14_EncadeandoLacosFor\obj\Debug\14_EncadeandoLacosFor.pdb

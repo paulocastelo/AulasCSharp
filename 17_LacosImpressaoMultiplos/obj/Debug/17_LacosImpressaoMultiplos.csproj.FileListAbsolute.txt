@@ -1,0 +1,6 @@
+D:\ANTT\Projects\AulasCSharp\01_HelloWorld\17_LacosImpressaoMultiplos\bin\Debug\17_LacosImpressaoMultiplos.exe.config
+D:\ANTT\Projects\AulasCSharp\01_HelloWorld\17_LacosImpressaoMultiplos\bin\Debug\17_LacosImpressaoMultiplos.exe
+D:\ANTT\Projects\AulasCSharp\01_HelloWorld\17_LacosImpressaoMultiplos\bin\Debug\17_LacosImpressaoMultiplos.pdb
+D:\ANTT\Projects\AulasCSharp\01_HelloWorld\17_LacosImpressaoMultiplos\obj\Debug\17_LacosImpressaoMultiplos.csproj.CoreCompileInputs.cache
+D:\ANTT\Projects\AulasCSharp\01_HelloWorld\17_LacosImpressaoMultiplos\obj\Debug\17_LacosImpressaoMultiplos.exe
+D:\ANTT\Projects\AulasCSharp\01_HelloWorld\17_LacosImpressaoMultiplos\obj\Debug\17_LacosImpressaoMultiplos.pdb

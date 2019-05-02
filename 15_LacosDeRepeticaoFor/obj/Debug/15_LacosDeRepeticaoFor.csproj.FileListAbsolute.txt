@@ -1,0 +1,7 @@
+D:\ANTT\Projects\AulasCSharp\01_HelloWorld\15_LacosDeRepeticaoFor\bin\Debug\15_LacosDeRepeticaoFor.exe.config
+D:\ANTT\Projects\AulasCSharp\01_HelloWorld\15_LacosDeRepeticaoFor\bin\Debug\15_LacosDeRepeticaoFor.exe
+D:\ANTT\Projects\AulasCSharp\01_HelloWorld\15_LacosDeRepeticaoFor\bin\Debug\15_LacosDeRepeticaoFor.pdb
+D:\ANTT\Projects\AulasCSharp\01_HelloWorld\15_LacosDeRepeticaoFor\obj\Debug\15_LacosDeRepeticaoFor.csprojAssemblyReference.cache
+D:\ANTT\Projects\AulasCSharp\01_HelloWorld\15_LacosDeRepeticaoFor\obj\Debug\15_LacosDeRepeticaoFor.csproj.CoreCompileInputs.cache
+D:\ANTT\Projects\AulasCSharp\01_HelloWorld\15_LacosDeRepeticaoFor\obj\Debug\15_LacosDeRepeticaoFor.exe
+D:\ANTT\Projects\AulasCSharp\01_HelloWorld\15_LacosDeRepeticaoFor\obj\Debug\15_LacosDeRepeticaoFor.pdb
