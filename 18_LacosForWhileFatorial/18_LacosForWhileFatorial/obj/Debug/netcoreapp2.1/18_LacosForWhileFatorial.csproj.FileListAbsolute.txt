@@ -1,0 +1,10 @@
+C:\Projetos\AulasCSharp\18_LacosForWhileFatorial\18_LacosForWhileFatorial\bin\Debug\netcoreapp2.1\18_LacosForWhileFatorial.deps.json
+C:\Projetos\AulasCSharp\18_LacosForWhileFatorial\18_LacosForWhileFatorial\bin\Debug\netcoreapp2.1\18_LacosForWhileFatorial.runtimeconfig.json
+C:\Projetos\AulasCSharp\18_LacosForWhileFatorial\18_LacosForWhileFatorial\bin\Debug\netcoreapp2.1\18_LacosForWhileFatorial.runtimeconfig.dev.json
+C:\Projetos\AulasCSharp\18_LacosForWhileFatorial\18_LacosForWhileFatorial\bin\Debug\netcoreapp2.1\18_LacosForWhileFatorial.dll
+C:\Projetos\AulasCSharp\18_LacosForWhileFatorial\18_LacosForWhileFatorial\bin\Debug\netcoreapp2.1\18_LacosForWhileFatorial.pdb
+C:\Projetos\AulasCSharp\18_LacosForWhileFatorial\18_LacosForWhileFatorial\obj\Debug\netcoreapp2.1\18_LacosForWhileFatorial.csproj.CoreCompileInputs.cache
+C:\Projetos\AulasCSharp\18_LacosForWhileFatorial\18_LacosForWhileFatorial\obj\Debug\netcoreapp2.1\18_LacosForWhileFatorial.AssemblyInfoInputs.cache
+C:\Projetos\AulasCSharp\18_LacosForWhileFatorial\18_LacosForWhileFatorial\obj\Debug\netcoreapp2.1\18_LacosForWhileFatorial.AssemblyInfo.cs
+C:\Projetos\AulasCSharp\18_LacosForWhileFatorial\18_LacosForWhileFatorial\obj\Debug\netcoreapp2.1\18_LacosForWhileFatorial.dll
+C:\Projetos\AulasCSharp\18_LacosForWhileFatorial\18_LacosForWhileFatorial\obj\Debug\netcoreapp2.1\18_LacosForWhileFatorial.pdb
