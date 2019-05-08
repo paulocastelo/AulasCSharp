@@ -1,0 +1,10 @@
+C:\Projetos\AulasCSharp\curso02\curso02\04_ByteBank\04_ByteBank\bin\Debug\netcoreapp2.1\04_ByteBank.deps.json
+C:\Projetos\AulasCSharp\curso02\curso02\04_ByteBank\04_ByteBank\bin\Debug\netcoreapp2.1\04_ByteBank.runtimeconfig.json
+C:\Projetos\AulasCSharp\curso02\curso02\04_ByteBank\04_ByteBank\bin\Debug\netcoreapp2.1\04_ByteBank.runtimeconfig.dev.json
+C:\Projetos\AulasCSharp\curso02\curso02\04_ByteBank\04_ByteBank\bin\Debug\netcoreapp2.1\04_ByteBank.dll
+C:\Projetos\AulasCSharp\curso02\curso02\04_ByteBank\04_ByteBank\bin\Debug\netcoreapp2.1\04_ByteBank.pdb
+C:\Projetos\AulasCSharp\curso02\curso02\04_ByteBank\04_ByteBank\obj\Debug\netcoreapp2.1\04_ByteBank.csproj.CoreCompileInputs.cache
+C:\Projetos\AulasCSharp\curso02\curso02\04_ByteBank\04_ByteBank\obj\Debug\netcoreapp2.1\04_ByteBank.AssemblyInfoInputs.cache
+C:\Projetos\AulasCSharp\curso02\curso02\04_ByteBank\04_ByteBank\obj\Debug\netcoreapp2.1\04_ByteBank.AssemblyInfo.cs
+C:\Projetos\AulasCSharp\curso02\curso02\04_ByteBank\04_ByteBank\obj\Debug\netcoreapp2.1\04_ByteBank.dll
+C:\Projetos\AulasCSharp\curso02\curso02\04_ByteBank\04_ByteBank\obj\Debug\netcoreapp2.1\04_ByteBank.pdb
