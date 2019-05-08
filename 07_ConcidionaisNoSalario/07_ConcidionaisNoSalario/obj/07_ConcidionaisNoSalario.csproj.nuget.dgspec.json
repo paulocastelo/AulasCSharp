@@ -1,28 +1,32 @@
 {
   "format": 1,
   "restore": {
-    "D:\\ANTT\\Projects\\AulasCSharp\\07_ConcidionaisNoSalario\\07_ConcidionaisNoSalario\\07_ConcidionaisNoSalario.csproj": {}
+    "C:\\Projetos\\AulasCSharp\\07_ConcidionaisNoSalario\\07_ConcidionaisNoSalario\\07_ConcidionaisNoSalario.csproj": {}
   },
   "projects": {
-    "D:\\ANTT\\Projects\\AulasCSharp\\07_ConcidionaisNoSalario\\07_ConcidionaisNoSalario\\07_ConcidionaisNoSalario.csproj": {
+    "C:\\Projetos\\AulasCSharp\\07_ConcidionaisNoSalario\\07_ConcidionaisNoSalario\\07_ConcidionaisNoSalario.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\ANTT\\Projects\\AulasCSharp\\07_ConcidionaisNoSalario\\07_ConcidionaisNoSalario\\07_ConcidionaisNoSalario.csproj",
+        "projectUniqueName": "C:\\Projetos\\AulasCSharp\\07_ConcidionaisNoSalario\\07_ConcidionaisNoSalario\\07_ConcidionaisNoSalario.csproj",
         "projectName": "07_ConcidionaisNoSalario",
-        "projectPath": "D:\\ANTT\\Projects\\AulasCSharp\\07_ConcidionaisNoSalario\\07_ConcidionaisNoSalario\\07_ConcidionaisNoSalario.csproj",
-        "packagesPath": "C:\\Users\\paulo.castelo\\.nuget\\packages\\",
-        "outputPath": "D:\\ANTT\\Projects\\AulasCSharp\\07_ConcidionaisNoSalario\\07_ConcidionaisNoSalario\\obj\\",
+        "projectPath": "C:\\Projetos\\AulasCSharp\\07_ConcidionaisNoSalario\\07_ConcidionaisNoSalario\\07_ConcidionaisNoSalario.csproj",
+        "packagesPath": "C:\\Users\\PauloC\\.nuget\\packages\\",
+        "outputPath": "C:\\Projetos\\AulasCSharp\\07_ConcidionaisNoSalario\\07_ConcidionaisNoSalario\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
+          "C:\\ProgramData\\Xamarin\\NuGet\\",
           "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
         ],
         "configFilePaths": [
-          "C:\\Users\\paulo.castelo\\AppData\\Roaming\\NuGet\\NuGet.Config"
+          "C:\\Users\\PauloC\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Xamarin.Offline.config"
         ],
         "originalTargetFrameworks": [
           "netcoreapp2.1"
         ],
         "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {

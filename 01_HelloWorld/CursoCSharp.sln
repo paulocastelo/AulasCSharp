@@ -33,11 +33,11 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "13_CalculaPoupanca", "..\13
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "14_EncadeandoLacosFor", "..\14_EncadeandoLacosFor\14_EncadeandoLacosFor\14_EncadeandoLacosFor.csproj", "{9E2B1E13-18D8-457B-AB98-B27EF11F19AC}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "15_LacosDeRepeticaoFor", "15_LacosDeRepeticaoFor\15_LacosDeRepeticaoFor.csproj", "{939C3D54-455F-419F-B9CA-61699FE2CC29}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "15_LacosDeRepeticaoFor", "..\15_LacosDeRepeticaoFor\15_LacosDeRepeticaoFor.csproj", "{939C3D54-455F-419F-B9CA-61699FE2CC29}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "16_LacosDeRepeticaoFor2", "16_LacosDeRepeticaoFor2\16_LacosDeRepeticaoFor2.csproj", "{71490492-D513-4471-A0EE-4B654E3C96CF}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "16_LacosDeRepeticaoFor2", "..\16_LacosDeRepeticaoFor2\16_LacosDeRepeticaoFor2.csproj", "{71490492-D513-4471-A0EE-4B654E3C96CF}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "17_LacosImpressaoMultiplos", "17_LacosImpressaoMultiplos\17_LacosImpressaoMultiplos.csproj", "{7B8D3F63-EDA4-40E9-B6A3-2B6F3BD5C1FE}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "17_LacosImpressaoMultiplos", "..\17_LacosImpressaoMultiplos\17_LacosImpressaoMultiplos.csproj", "{7B8D3F63-EDA4-40E9-B6A3-2B6F3BD5C1FE}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
